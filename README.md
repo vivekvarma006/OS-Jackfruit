@@ -5,7 +5,7 @@
 | Name | SRN |
 |------|-----|
 | Vivek Varma | PES1UG24AM070 |
-| Aamer | PES1UG24AM902 |
+| Bhuvan Kumar | PES1UG24AM069 |
 
 ---
 
